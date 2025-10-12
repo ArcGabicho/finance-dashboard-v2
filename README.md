@@ -40,7 +40,7 @@ It includes a **light/dark mode**, is **fully responsive**, and features **data 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/finance-dashboard.git
+   https://github.com/alan-cx/finance-dashboard.git
 
 ---
 
