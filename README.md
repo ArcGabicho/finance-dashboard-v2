@@ -28,6 +28,8 @@ It includes a **light/dark mode**, is **fully responsive**, and features **data 
 
 ## 📸 Preview
 
+(https://alan-cx.github.io/finance-dashboard/)
+
 ### 🌞 Light Mode
 ![Light Mode Preview](assets/images/lightmode.png)
 
