@@ -39,6 +39,7 @@ Un **dashboard financiero interactivo** construido con **React 18**, **Vite**, *
 ## 📸 Preview
 
 ![Light Mode Preview](/public/assets/light-theme.png)
+<br>
 ![Dark Mode Preview](/public/assets/dark-theme.png)
 
 
